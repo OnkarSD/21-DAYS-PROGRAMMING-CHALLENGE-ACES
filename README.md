@@ -2,4 +2,4 @@
 Algorithm and Data Structures with Competitive Coding questions / Web Development Material
 
 Day 1: SEPT20B questions ( Competitive )
-Day 2:
+Day 2: Web Design of my new portfolio website (Web Development )
