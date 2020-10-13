@@ -12,4 +12,5 @@ Day 4: Codechef long challange first 3 problems will upload files after the comp
 Day 5: Beginner level Dp problem\
 Day 6: Medium Difficulty questions from LEETCODE (Backtracking)\
 Day 7: Codechef long challenge question 4 and some easy level Leetcode Questions\
-Day 8:Codechef 4th problem \
+Day 8:Codechef 4th problem\
+Day 9:Monotonic Stack problems
