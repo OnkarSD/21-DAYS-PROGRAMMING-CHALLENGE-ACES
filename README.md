@@ -15,4 +15,6 @@ Day 7: Codechef long challenge question 4 and some easy level Leetcode Questions
 Day 8:Codechef 4th problem\
 Day 9:Monotonic Stack problems\
 Day 10: gfg problems\
-Day 11: Kadanes Algorithm for max sum array and Floyds loop detection 
+Day 11: Kadanes Algorithm for max sum array and Floyds loop detection.\
+for solving problems in linear time.
+        
