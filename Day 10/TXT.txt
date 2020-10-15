@@ -1,0 +1,9 @@
+ Started sovling some basic level questions on gfg 
+
+1.https://practice.geeksforgeeks.org/problems/print-first-letter-of-every-word-in-the-string3632/1/?company[]=Amazon&problemStatus=solved&difficulty[]=-1&page=1&query=company[]AmazonproblemStatussolveddifficulty[]-1page1
+
+2.https://practice.geeksforgeeks.org/problems/maximum-money2855/1/?company[]=Amazon&problemStatus=solved&difficulty[]=-1&page=1&query=company[]AmazonproblemStatussolveddifficulty[]-1page1
+
+3.https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1/?company[]=Amazon&problemStatus=solved&difficulty[]=-1&page=1&query=company[]AmazonproblemStatussolveddifficulty[]-1page1
+
+4.https://practice.geeksforgeeks.org/problems/set-bits0143/1/?problemStatus=solved&page=1&query=problemStatussolvedpage1
