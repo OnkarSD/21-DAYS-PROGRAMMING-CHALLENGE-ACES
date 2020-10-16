@@ -16,5 +16,6 @@ Day 8:Codechef 4th problem\
 Day 9:Monotonic Stack problems\
 Day 10: gfg problems\
 Day 11: Kadanes Algorithm for max sum array and Floyds loop detection.\
-for solving problems in linear time.
+        for solving problems in linear time.\
+Day 12: Amazon problems (Easy - Medium )\
         
