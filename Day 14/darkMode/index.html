@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link rel="stylesheet" href="main.css" />
+    <title>Document</title>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Light / Dark Mode</h1>
+      <div class="toggle-container">
+        <input type="checkbox" name="theme" id="switch" /><label for="switch"
+          >Toggle</label
+        >
+      </div>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim a eaque
+        voluptatibus?
+      </p>
+    </div>
+
+    <script>
+      var checkbox = document.getElementById("switch");
+      checkbox.addEventListener("change", function () {
+        if (this.checked) {
+          trans();
+          document.documentElement.setAttribute("data-theme", "dark");
+        } else {
+          trans();
+          document.documentElement.setAttribute("data-theme", "light");
+        }
+      });
+
+      let trans = () => {
+        document.documentElement.classList.add("transition");
+        window.setTimeout(() => {
+          document.documentElement.classList.remove("transition");
+        }, 1000);
+      };
+    </script>
+  </body>
+</html>
