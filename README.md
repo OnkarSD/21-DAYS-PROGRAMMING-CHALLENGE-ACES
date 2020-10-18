@@ -17,7 +17,7 @@ Day 9:Monotonic Stack problems\
 Day 10: gfg problems\
 Day 11: Kadanes Algorithm for max sum array and Floyds loop detection.\
         for solving problems in linear time.\
-Day 12: Amazon problems (Easy - Medium )\
-
-Day 13: solutions to october dusk challenge
+Day 12: Amazon problems (Easy - Medium ).\
+Day 13: solutions to october dusk challenge\
+Day 14: Improvised dark mode filter (Web development )
         
