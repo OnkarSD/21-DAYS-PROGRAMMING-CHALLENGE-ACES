@@ -21,5 +21,7 @@ Day 12: Amazon problems (Easy - Medium ).\
 Day 13: solutions to october dusk challenge\
 Day 14: Improvised dark mode filter (Web development )\
 Day 15: Array related problems.\
-Day 16: LeetCode Problems.
+Day 16: LeetCode Problems.\
+Day 17:Leetcode medium problems.\
+Day 18:Leetcode medium problems.
         
