@@ -25,5 +25,6 @@ Day 16: LeetCode Problems.\
 Day 17:Leetcode medium problems.\
 Day 18:Leetcode medium problems.\
 Day 19:Leetcode  medium problems .(Hashm table problems.)\
-Day 20:Leetocde Hard problems.(hash table problems)
+Day 20:Leetocde Hard problems.(hash table problems)\
+Day 21:Small python project
         
